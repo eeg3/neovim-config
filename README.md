@@ -1,3 +1,7 @@
+# neovim configuration
+
+Copy into neovim configuration (e.g. ~/.config/nvim/).
+
 ## Install neovim
 
 https://github.com/neovim/neovim/wiki/Installing-Neovim#ubuntu
@@ -9,8 +13,12 @@ https://github.com/wbthomason/packer.nvim#quickstart
 ## Install additional pre-reqs
 
 unzip: `apt-get install unzip`
+
 node: https://github.com/neovim/neovim/wiki/Installing-Neovim#ubuntu
+
 prettier: `npm install prettier -g`
+
 yarn: `npm install yarn -g`
+
 ripgrep: https://github.com/BurntSushi/ripgrep#installation
 
